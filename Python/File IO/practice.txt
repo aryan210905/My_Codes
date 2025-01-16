@@ -1,0 +1,3 @@
+Hi everyone
+We are learning File IO
+in Python
