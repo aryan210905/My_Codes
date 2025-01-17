@@ -18,7 +18,7 @@ n3 = np.random.rand()
 print(n3)
 
 # random 1D float array
-n4 = np.random.rand(3)
+n4 = np.random.rand(3)  # 3-> no. of elements
 print(n4)
 
 # random 2D float array
